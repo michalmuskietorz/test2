@@ -1,0 +1,23 @@
+ * {margin: 0; padding: 0; }
+body {font-family: Arial, Helvetica, Sans-serif; }
+header {display: block;  background-color: #2e3440; padding: 20px; border-bottom: 5px solid #434c5e;}
+h1 {font-weight: normal; padding: 1.5em; color: white; text-shadow: 1px 1px 0px #444; width: 1000px; margin: auto;}
+
+nav {background-color: #4c566a;}
+
+nav a {color: #d8dee9; text-decoration: none;}
+nav a:hover {color: #eceff4;}
+nav ul {display: table; width: 1000px; margin: auto;}
+nav li {display: table-cell; text-align: center; padding: 1em;}
+
+main {overflow: auto; min-height: 30vh; background-color: #e5e9f0; width: 1000px; margin: auto; box-shadow: -1000px 0 0 #e5e9f0, 1000px 0 0 #e5e9f0; padding-top: 20px; color: #3b4252}
+
+footer {padding: 1em; background-color: #4c566a ; font-size: 0.8em; color: #eceff4}
+
+p {margin-bottom: 1em;}
+
+body {font-size: 1.2em; font-family: arial, helvetica, sans-serif}
+input, label, select, textarea {float: left; width: 15em; margin-bottom: 1em;  padding: 0.5em;}
+label {clear: left; padding: 0; margin: 0;}
+input[type="submit"] {margin-left: 15em; width: auto; padding: 0.5em 1em; clear: both; font-size: 1em;}
+form {overflow: auto; clear: both; display: block;}
